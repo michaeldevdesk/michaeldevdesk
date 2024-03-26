@@ -14,6 +14,12 @@
   <a href="https://www.linkedin.com/in/michael-jakson-5108281a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <div align="center">
 <img width="470em" alt="Status Github Michael" src="https://github-readme-stats.vercel.app/api?username=Michaeldevdesk&show_icons=true&theme=dracula" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldevdesk&layout=compact&theme=dracula"/>
