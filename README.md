@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-<img width="250em" alt="Status Github Michael" src="https://github-readme-stats.vercel.app/api?username=AdrianoBinhara&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
+<img width="300em" alt="Status Github Michael" src="https://github-readme-stats.vercel.app/api?username=MichaelJakson&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJakson&layout=compact&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
