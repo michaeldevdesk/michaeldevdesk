@@ -9,8 +9,8 @@
 ### Connect with me:
 
 <div>
-  <a href="https:// " target="_blank"><img src="https:// " target="_blank"></a>
-  <a href="https://instagram.com/Michaell01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https:// "https://www.facebook.com/ target="_blank"><img src="https:// " target="_blank"></a>
+  <a href="https://instagram.com/michael.araujoo1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michael-jakson-5108281a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
